@@ -6,4 +6,5 @@ matplotlib
 seaborn
 scikit-learn
 tensorflow==2.15.1
+keras==2.15.0
 streamlit
