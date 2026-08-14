@@ -1,0 +1,27 @@
+﻿# Dataset folders
+yoga_set1/
+yoga_set2/
+final_test/
+
+# Generated dataset files
+dataset_index.csv
+features_encoded.csv
+pose_features.csv
+
+# Generated outputs
+eda_outputs/
+eval_outputs/
+artifacts/
+
+# Virtual environment
+yoga_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
